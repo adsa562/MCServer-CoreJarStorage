@@ -1,7 +1,7 @@
 # 介紹
 本專案為自己常用的Minecraft Server核心的備用載點，只保留打包完畢的jar檔以供後續要開伺服器時快速取用。
 
-## 收錄類別
+## Bukkit系分支端
 ### Akarin
 * 專案頁面
     * https://akarin.app/
@@ -37,7 +37,22 @@
 * 收錄版本
     * 1.16.2
     * 1.16.3
-
+## Forge+Bukkit端
+### Arclight
+* 專案頁面
+    * https://github.com/IzzelAliz/Arclight
+* 收錄版本
+    * 1.14.4
+    * 1.15.2
+    * 1.16.5
+## Fabric+Bukkit端
+### Cardboard
+* 專案頁面
+    * https://github.com/CardboardPowered/cardboard
+    * https://cardboardpowered.org/
+    * https://ci.codemc.io/job/IsaiahPatton/job/Cardboard/
+* 收錄版本
+    * 1.16.4
 
 ## 各項專案使用的許可授權
 * [Paper](https://github.com/PaperMC/Paper/blob/master/LICENSE.md)
